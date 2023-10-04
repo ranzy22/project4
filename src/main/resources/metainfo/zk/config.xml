@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+	<config-name>ewfs</config-name><!-- used to resolve dependency -->
+	<depends>zul</depends>
+	<version>
+		<version-class>vdsdcx.Version</version-class>
+		<version-uid>16</version-uid>
+	</version>
+
+	<listener>
+		<listener-class>vdsdcx.vfddxThemeWebAppInit</listener-class>
+	</listener>
+</config>
